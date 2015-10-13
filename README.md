@@ -1,2 +1,2 @@
 # RaveStats
-Statistics of the RAVE DR4 catalog
+Daily statistics of the RAVE DR4 catalog.
